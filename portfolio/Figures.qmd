@@ -9,24 +9,29 @@ format:
       dark: [minty, styles_dark.scss]
     css: styles.css
     toc: true
+    lightbox: true
 ---
 
-::: {layout-ncol=2}
+::: {layout-ncol=4}
 
-![](Figuras/tidy_07-10.jpg){width="50%"}
+![](Figuras/tidy_07-10.jpg){width="20%"}
 
-![](Figuras/tidy_12_08_opt2.jpg){width="50%"}
-:::
+![](Figuras/tidy_12_08_opt2.jpg){width="20%"}
 
-![](Figuras/Tidy_26_08.png)
+![](Figuras/Tidy_26_08.png){width="20%"}
 
-::: {layout-ncol=2}
+![](Figuras/Publicado_Figure1.png){width="20%"}
 
-![](Figuras/Publicado_Figure1.png)
+![](Figuras/Publicado_Figure2.png){width="20%"}
 
-![](Figuras/Publicado_Figure2.png)
-:::
+![](Figuras/Publicado_Figure4.png){width="20%"}
 
-![](Figuras/Publicado_Figure4.png)
+![](Figuras/penguins_combined_en.png){width="20%"}
 
-![](Figuras/penguins_combined_en.png)
+![](Figuras/Tidy_26_08_opt2.png){width="20%"}
+
+![](Figuras/week43.jpg){width="20%"}
+
+![](Figuras/week42.jpg){width="20%"}
+
+![](Figuras/violinplot-verpertilionids.png){width="20%"}
