@@ -1,0 +1,174 @@
+/*-- scss:defaults --*/
+
+$theme-lightchaos: #D7E4D2;
+$theme-darkchaos: #47663D;
+$white:    #fff;
+$gray-100: #f8f9fa;
+$gray-700: #5a5a5a;
+$gray-800: #343a40; 
+$black:    #000; 
+$lighgreen: #2a9d8fff; 
+$orange:  #EB886F; 
+$yellow:  #f4a261ff; 
+$green:   #8ab17dff; 
+
+
+$primary:       $lighgreen;
+$secondary:     $orange;
+$success:       $green; 
+$info:          $theme-darkchaos;
+$warning:       $yellow;
+$danger:        $orange;
+$light:         $lighgreen;
+$dark:          $gray-800;
+
+$min-contrast-ratio:   1.45;
+
+// Body
+
+$body-bg:                   $theme-lightchaos;
+$body-color:                $gray-700;
+$color-contrast-dark:       $body-color; // Prefer $body-color over $black inside color-contrast()
+
+// Components
+
+$border-radius:               .4rem !default;
+$border-radius-lg:            .6rem !default;
+$border-radius-sm:            .3rem !default;
+
+// Fonts
+
+// stylelint-disable-next-line value-keyword-case
+$headings-font-family:        Montserrat, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !default;
+$headings-color:              $gray-700 !default;
+
+// Tables
+
+$table-border-color:          rgba(0, 0, 0, .05) !default;
+
+$table-bg-scale:              0% !default;
+
+// Dropdowns
+
+$dropdown-link-hover-color:         $white !default;
+$dropdown-link-hover-bg:            $secondary !default;
+
+// Navbar
+
+// Pagination
+
+$pagination-color:                  $white !default;
+$pagination-bg:                     $primary !default;
+$pagination-border-color:           $primary !default;
+$pagination-hover-color:            $white !default;
+$pagination-hover-bg:               $secondary !default;
+$pagination-hover-border-color:     $pagination-hover-bg !default;
+$pagination-active-bg:              $secondary !default;
+$pagination-active-border-color:    $pagination-active-bg !default;
+$pagination-disabled-color:         $white !default;
+$pagination-disabled-bg:            #cce8e0 !default;
+$pagination-disabled-border-color:  $pagination-disabled-bg !default;
+
+// Alerts
+
+$alert-color-scale:                 0% !default;
+$alert-bg-scale:                    0% !default;
+
+// Breadcrumbs
+
+$breadcrumb-padding-y:              .375rem !default;
+$breadcrumb-padding-x:              .75rem !default;
+$breadcrumb-bg:                     $primary !default;
+$breadcrumb-divider-color:          $white !default;
+$breadcrumb-active-color:           $breadcrumb-divider-color !default;
+$breadcrumb-border-radius:          .25rem !default;
+
+
+
+/*-- scss:rules --*/
+
+
+// Variables
+
+$web-font-path: "https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&display=swap" !default;
+@if $web-font-path {
+  @import url($web-font-path);
+}
+
+// Navbar
+
+.navbar {
+  font-family: $headings-font-family;
+}
+
+// Buttons
+
+.btn {
+  font-family: $headings-font-family;
+}
+
+// Forms
+
+legend {
+  font-family: $headings-font-family;
+}
+
+// Navs
+
+.dropdown-menu {
+  font-family: $font-family-sans-serif;
+}
+
+.breadcrumb {
+  a {
+    color: $navbar-dark-color;
+  }
+
+  a:hover {
+    color: $white;
+    text-decoration: none;
+  }
+}
+
+// Indicators
+
+.alert {
+  a,
+  .alert-link {
+    color: $white;
+  }
+
+  &-light {
+
+    &,
+    a:not(.btn),
+    .alert-link {
+      color: $body-color;
+    }
+  }
+}
+
+.badge {
+  color: $white;
+
+  &.bg-light {
+    color: $gray-700;
+  }
+}
+
+// Containers
+
+.card,
+.list-group-item {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: inherit;
+  }
+}
+
+
+// quarto-scss-analysis-annotation { "origin": null }

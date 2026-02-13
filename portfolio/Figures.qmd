@@ -1,0 +1,32 @@
+---
+title: "Figuras"
+page-layout: full
+format:
+  html:
+    respect-user-color-scheme: true
+    theme:
+      light: [minty, styles.scss]
+      dark: [minty, styles_dark.scss]
+    css: styles.css
+    toc: true
+---
+
+::: {layout-ncol=2}
+
+![](Figuras/tidy_07-10.jpg){width="50%"}
+
+![](Figuras/tidy_12_08_opt2.jpg){width="50%"}
+:::
+
+![](Figuras/Tidy_26_08.png)
+
+::: {layout-ncol=2}
+
+![](Figuras/Publicado_Figure1.png)
+
+![](Figuras/Publicado_Figure2.png)
+:::
+
+![](Figuras/Publicado_Figure4.png)
+
+![](Figuras/penguins_combined_en.png)

@@ -1,0 +1,40 @@
+[
+  {
+    "objectID": "projetos/TidyTuesday.html",
+    "href": "projetos/TidyTuesday.html",
+    "title": "TidyTuesday",
+    "section": "",
+    "text": "TidyTuesday is a weekly data visualization challenge that I use as a creative and learning space. Each week, a new dataset is posted in the tidytuesday project’s github, which is organized by the Data Science Learning Community, and participants are invited to explore and visualize the data using R."
+  },
+  {
+    "objectID": "contato.html",
+    "href": "contato.html",
+    "title": "Entre em contato",
+    "section": "",
+    "text": "Nome: \nE-mail: \nMensagem:\n\n\n\nEnviar\n\n\n\n\n\n  Fale com a gente!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "DataChaos",
+    "section": "",
+    "text": "Bem-vindo à DataChaos.\nNós eliminamos o abismo entre conjuntos de dados brutos e resultados prontos para publicação.\nAtravés de análises avançadas em R e design visual estratégico, ajudamos cientistas e organizações a transformar dados complexos em histórias claras.\nNós não apenas analisamos dados. Nós trazemos ordem ao caos."
+  },
+  {
+    "objectID": "portfolio/Figures.html",
+    "href": "portfolio/Figures.html",
+    "title": "Figuras",
+    "section": "",
+    "text": "::: {layout-ncol=2}\n\n :::\n\n :::",
+    "crumbs": [
+      "Figuras"
+    ]
+  }
+]

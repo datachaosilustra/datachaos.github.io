@@ -1,0 +1,35 @@
+---
+title: "Entre em contato"
+format:
+  html:
+    respect-user-color-scheme: true
+    theme:
+      light: [minty, styles.scss]
+      dark: [minty, styles_dark.scss]
+    css: styles.css
+    toc: true
+---
+
+::: {.contact-form .text-center}
+<form action="https://formspree.io/f/xdalejnw" method="POST">
+  <label for="name">Nome:</label>
+  <input type="text" id="name" name="name" required>
+
+  <label for="email">E-mail:</label>
+  <input type="email" id="email" name="email" required>
+
+  <label for="message">Mensagem:</label>
+  <textarea id="message" name="message" rows="4" required></textarea>
+
+  <input type="hidden" name="_next" value="https://datachaos.com.br" /> 
+
+  <button type="submit">Enviar</button>
+</form>
+:::
+\
+
+
+<a href="https://wa.me/5541995276023" target="_blank" style="font-size: 2rem; color: #B86B2E;">
+  <i class="bi-whatsapp"></i> Fale com a gente!
+</a>
+

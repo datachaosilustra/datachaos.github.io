@@ -1,0 +1,15 @@
+---
+title: "Sobre nós"
+format:
+  html:
+    respect-user-color-scheme: true
+    theme:
+      light: [minty, styles.scss]
+      dark: [minty, styles_dark.scss]
+    css: styles.css
+    toc: true
+---
+
+
+
+

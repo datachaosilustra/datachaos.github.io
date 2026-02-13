@@ -1,0 +1,16 @@
+---
+title: "TidyTuesday"
+format: 
+  html:
+    code-fold: true
+    code-summary: "Show code"
+    fig-width: 8
+    fig-height: 6
+execute:
+  echo: true
+  warning: false
+  message: false
+---
+
+**TidyTuesday** is a weekly data visualization challenge that I use as a creative and learning space. Each week, a new dataset is posted in the [tidytuesday project's github](https://github.com/rfordatascience/tidytuesday), which is organized by the [Data Science Learning Community](https://github.com/rfordatascience/tidytuesday/tree/main), and participants are invited to explore and visualize the data using R.
+

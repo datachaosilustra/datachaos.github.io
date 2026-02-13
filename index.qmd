@@ -1,0 +1,29 @@
+---
+title: ""
+about:
+  template: trestles
+  image: logosemfundo.png
+  image-shape: rounded
+  image-width: 20em
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/datachaosilustra/
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/datachaosilustra/
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/company/datachaos-ilustra/
+---
+
+::: {.center}
+
+Bem-vindo à **DataChaos**. 
+
+Nós eliminamos o abismo entre conjuntos de dados brutos e resultados prontos para publicação.
+
+Através de análises avançadas em R e design visual estratégico, ajudamos cientistas e organizações a transformar dados complexos em histórias claras.
+\
+Nós não apenas analisamos dados. Nós trazemos ordem ao caos.
+:::
