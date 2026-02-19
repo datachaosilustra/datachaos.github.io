@@ -10,6 +10,48 @@ format:
     toc: true
 ---
 
+::: {layout="[1,2]"}
 
+![](Mabi.png){width="30%"}
 
+**Amabily Bohn | Pesquisadora e fundadora da DataChaos**
+\
+Sou bióloga, mestre em Botânica e doutora em Ecologia e Conservação pela Universidade Federal do Paraná. Minha trajetória na pesquisa passou pelo Inventário Florístico de Santa Catarina (FURB) e, atualmente, estou associada à Universidade Federal do Paraná como Pós-Doutoranda (Bolsista PDJ/CNPq) no PPG Botânica.
+\
+Minha trajetória é movida pela intersecção entre biologia, dados e tecnologia. Especialista em ecologia de comunidades e biogeografia, utilizo a linguagem R para realizar análises estatísticas complexas, modelagem de distribuição de espécies (SDMs) e visualização de dados espaciais. Como cofundadora da DataChaos, aplico o meu conhecimento para transformar dados em comunicações visuais precisas e impactantes.
+\
+<a href="https://scholar.google.com/citations?user=ualUrGcAAAAJ&hl=pt-BR" target="_blank" style="font-size: 1rem; color: #B86B2E;">
+  <i class="bi bi-google"></i> Scholar
+</a>
 
+:::
+
+::: {layout="[2,1]"}
+
+**Marina Scalon | Pesquisadora e fundadora da DataChaos**
+\
+Minha pesquisa busca compreender as respostas das plantas a estresses ambientais, integrando fisiologia vegetal e ecologia com uma abordagem analítica rigorosa e robusta. Acredito que a ciência se torna mais poderosa quando é acessível. Por isso, me dedico a transformar dados brutos em visualizações claras e impactantes, que comuniquem resultados com precisão e propósito.
+\
+Desde 2015, leciono programação e estatística na pós-graduação, compartilhando não apenas meu conhecimento técnico, mas também meu entusiasmo pela ciência de dados e pela construção de uma pesquisa mais sólida e transparente.
+\
+<a href="https://mcscalon.github.io/" target="_blank" style="font-size: 1rem; color: #B86B2E;">
+  <i class="bi-browser-chrome"></i> Website
+</a>
+\
+<a href="https://scholar.google.com/citations?user=mtJz9egAAAAJ&hl=en" target="_blank" style="font-size: 1rem; color: #B86B2E;">
+  <i class="bi bi-google"></i> Scholar
+</a>
+
+![](Marina-Scalon.png)
+
+:::
+
+::: {layout="[1,2]"}
+
+**Matheus Salles| Pesquisador e fundador da DataChaos**
+\
+<a href="https://scholar.google.com/citations?user=STWZgBAAAAAJ&hl=pt-BR" target="_blank" style="font-size: 1rem; color: #B86B2E;">
+  <i class="bi bi-google"></i> Scholar
+</a>
+
+:::

@@ -10,7 +10,7 @@ format:
     toc: true
 ---
 
-::: {.contact-form .text-center}
+::: {.contact-form}
 <form action="https://formspree.io/f/xdalejnw" method="POST">
   <label for="name">Nome:</label>
   <input type="text" id="name" name="name" required>

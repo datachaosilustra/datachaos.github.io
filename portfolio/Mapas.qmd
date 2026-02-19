@@ -8,5 +8,30 @@ format:
       dark: [minty, styles_dark.scss]
     css: styles.css
     toc: true
+    lightbox: true
 ---
 
+::: {layout-ncol=2}
+
+![](Mapas/figura_paulinho.png){width="30%"}
+
+
+![](Mapas/Remanescentes_att.png){width="30%"}
+
+![](Mapas/outras_areas.png){width="30%"}
+
+![](Mapas/Figure1final.jpg){width="30%"}
+
+![](Mapas/suzel2.jpg){width="30%"}
+
+![](Mapas/mapa-spinulosusgr-final-biomes.png){width="30%"}
+
+![](Figuras/panel3.jpg){width="30%"}
+
+![](Figuras/Publicado_Figure1.png){width="30%"}
+
+![](Figuras/Publicado_Figure2.png){width="30%"}
+
+![](Figuras/Figure1_Scalon.jpg){width="30%"}
+
+:::

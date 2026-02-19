@@ -12,7 +12,7 @@ format:
     lightbox: true
 ---
 
-::: {layout-ncol=4}
+::: {layout-ncol=3}
 
 ![](Figuras/tidy_07-10.jpg){width="20%"}
 
@@ -24,14 +24,47 @@ format:
 
 ![](Figuras/Publicado_Figure2.png){width="20%"}
 
-![](Figuras/Publicado_Figure4.png){width="20%"}
-
 ![](Figuras/penguins_combined_en.png){width="20%"}
+
+![](Figuras/Publicado_Figure4.png){width="20%"}
 
 ![](Figuras/Tidy_26_08_opt2.png){width="20%"}
 
-![](Figuras/week43.jpg){width="20%"}
+![](Figuras/Fig_clima_2026.jpg){width="20%"}
+
+![](Figuras/week43.png){width="20%"}
 
 ![](Figuras/week42.jpg){width="20%"}
 
 ![](Figuras/violinplot-verpertilionids.png){width="20%"}
+
+![](Figuras/Figure2_review.jpg){width="20%"}
+
+![](Figuras/Rplot08.png){width="20%"}
+
+![](Figuras/Plot_15_set.jpg){width="20%"}
+
+![](Figuras/tidy_12_08_opt3_mapas.jpg){width="20%"}
+
+![](Figuras/lineplot_2026.jpg){width="20%"}
+
+![](Figuras/juntos_ambiente.jpg){width="20%"}
+
+![](Figuras/Fig4_minor_opt2.jpg){width="20%"}
+
+![](Figuras/Figure3_review.jpg){width="20%"}
+
+![](Figuras/Figure1_Scalon.jpg){width="20%"}
+
+![](Figuras/week46.jpg){width="20%"}
+
+![](Figuras/Figure2_rev_set2.jpg){width="20%"}
+
+![](Figuras/painel_delta2.jpg){width="20%"}
+
+![](Figuras/Figure 5_rev_biog_new.jpg){width="20%"}
+
+![](Figuras/panel3.jpg){width="20%"}
+
+![](Figuras/Figure7_sem abcisao.jpg){width="20%"}
+:::

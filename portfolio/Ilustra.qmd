@@ -8,7 +8,22 @@ format:
       dark: [minty, styles_dark.scss]
     css: styles.css
     toc: true
-margin-header: |
-  ![](logosemfundo.png)
+    lightbox: true
 ---
 
+::: {layout-ncol=2}
+
+![](Ilustra/ecology-letters-viewpoint-fig2.png){height="40%"}
+
+![](Ilustra/Projeto_Marina.png){height="40%"}
+:::
+
+![](Ilustra/App_semfundo.png){width="60%"}
+
+::: {layout-ncol=2}
+
+![](Ilustra/Publicado - Figura_Tanise.jpg){width="40%"}
+
+![](Ilustra/Annals.png){width="40%"}
+
+:::
